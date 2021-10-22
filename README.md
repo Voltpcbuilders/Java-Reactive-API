@@ -66,7 +66,7 @@ Note thatJava-Reactive-API3 components now live under `io.reactivex.rxjava3` and
 
 ### Base classes
 
-RxJava 3 features several base classes you can discover operators on:
+Java-Reactive-API features several base classes you can discover operators on:
 
   - [`io.reactivex.rxjava3.core.Flowable`](http://reactivex.io/RxJava/3.x/javadoc/io/reactivex/rxjava3/core/Flowable.html): 0..N flows, supporting Reactive-Streams and backpressure
   - [`io.reactivex.rxjava3.core.Observable`](http://reactivex.io/RxJava/3.x/javadoc/io/reactivex/rxjava3/core/Observable.html): 0..N flows, no backpressure,
